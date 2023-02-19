@@ -29,6 +29,7 @@ After balancing the data is then sampled using the following methods:
 2. Systematic Sampling
 3. Stratified Sampling
 4. Cluster Sampling
+5. Conveinence Sampling
 
 <br>
 
