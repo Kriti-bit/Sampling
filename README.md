@@ -71,4 +71,4 @@ After training the models on the training data, the models were then tested on t
 
 ## Conclusion
 
-As shown in the table above, Random Forest has the highest accuracy for all the samples.
+As shown in the table above, Random Forest has the highest accuracy for the samples 1, 2 and 3, whereas Decision Tree has the highes accuracies for samples 4 and 5.
